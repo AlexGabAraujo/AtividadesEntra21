@@ -452,7 +452,6 @@ namespace Lista_06_Vetor_Lista
         //7. Crie uma List de números inteiros contendo pelo menos 5 elementos.Remova o primeiro e o último elemento da lista e exiba os valores restantes.
 
 
-
         static int PedirInt(string pergunta)
         {
             Console.Write(pergunta);
