@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\bin\Debug\net7.0\Lista_07_Matriz.exe
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\bin\Debug\net7.0\Lista_07_Matriz.deps.json
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\bin\Debug\net7.0\Lista_07_Matriz.runtimeconfig.json
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\bin\Debug\net7.0\Lista_07_Matriz.dll
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\bin\Debug\net7.0\Lista_07_Matriz.pdb
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.AssemblyInfo.cs
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.dll
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\refint\Lista_07_Matriz.dll
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.pdb
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\Lista_07_Matriz.genruntimeconfig.cache
+C:\Users\alex.araujo\Desktop\AtividadesEntra21\Lista_07_Matriz\Lista_07_Matriz\obj\Debug\net7.0\ref\Lista_07_Matriz.dll
