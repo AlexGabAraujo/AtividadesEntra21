@@ -1,0 +1,14 @@
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.AssemblyInfoInputs.cache
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.AssemblyInfo.cs
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.csproj.CoreCompileInputs.cache
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\bin\Debug\net8.0\Primeiros Exercicios C#.exe
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\bin\Debug\net8.0\Primeiros Exercicios C#.deps.json
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\bin\Debug\net8.0\Primeiros Exercicios C#.runtimeconfig.json
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\bin\Debug\net8.0\Primeiros Exercicios C#.dll
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\bin\Debug\net8.0\Primeiros Exercicios C#.pdb
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.dll
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\refint\Primeiros Exercicios C#.dll
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.pdb
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\Primeiros Exercicios C#.genruntimeconfig.cache
+C:\Users\guest01\source\repos\Primeiros Exercicios C#\Primeiros Exercicios C#\obj\Debug\net8.0\ref\Primeiros Exercicios C#.dll
