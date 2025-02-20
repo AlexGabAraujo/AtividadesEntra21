@@ -19,7 +19,7 @@ namespace Lista_06_Vetor_Lista
             {
                 do
                 {
-                    Console.WriteLine("Escolha uma questão que deseja executar(entre 1 a 20) ou então digite 0 para sair: ");
+                    Console.WriteLine("Escolha uma questão que deseja executar(entre 1 a 14) ou então digite 0 para sair: ");
                     opcao = int.Parse(Console.ReadLine());
                     Console.WriteLine();
 
@@ -62,8 +62,10 @@ namespace Lista_06_Vetor_Lista
                             MaiorQue50Ex12();
                             break;
                         case 13:
+                            ListNomeEx13();
                             break;
                         case 14:
+                            ListNumeroEx14();
                             break;
                         case 0:
                             Console.WriteLine("Finalizando...");
@@ -212,11 +214,6 @@ namespace Lista_06_Vetor_Lista
         {
             try
             {
-                string[] vetorString = new string[5];
-
-                for (int i = 0; i < 5; i++)
-                    vetorString[i] = PedirString($"Digite a {i + 1}ª frase: ");
-
                 Console.WriteLine("Digite uma frase para ser invertida:");
                 string frase = Console.ReadLine();
                 Console.WriteLine($"String Invertida: {InverteVetor(frase)}");
@@ -449,7 +446,49 @@ namespace Lista_06_Vetor_Lista
         }
 
         //6. Crie uma List de nomes ("Ana", "Bruno", "Carlos", "Diana", "Eduardo"). Pergunte ao usuário por um nome e informe se ele está presente na lista.
+        static void ListNomeEx13()
+        {
+            try
+            {
+                List<string> NomeList = new List<string> { "Ana", "Bruno", "Carlos", "Diana", "Eduardo" };
+                Console.WriteLine("Digite um nome para saber se está na lista: ");
+                string nome = Console.ReadLine();
+
+                if (NomeList.Contains(nome, StringComparer.OrdinalIgnoreCase))
+                    Console.WriteLine("O nome está na lista.");
+                else
+                    Console.WriteLine("O nome não está na lista.");
+                
+                Console.WriteLine("\nLista:\n");
+                foreach (string i in NomeList)
+                    Console.WriteLine(i);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Ocorreu um erro: ");
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Tente Novamente.");
+            }
+        }
         //7. Crie uma List de números inteiros contendo pelo menos 5 elementos.Remova o primeiro e o último elemento da lista e exiba os valores restantes.
+        static void ListNumeroEx14()
+        {
+            try
+            {
+                List<int> listaInt = new List<int> {1, 2, 3, 4, 5};
+                listaInt.RemoveAt(0);
+                listaInt.RemoveAt(listaInt.Count - 1);
+                Console.WriteLine("Lista Atualizada: ");
+                foreach (int i in listaInt)
+                    Console.WriteLine(i);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Ocorreu um erro: ");
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Tente Novamente.");
+            }
+        }
 
 
         static int PedirInt(string pergunta)

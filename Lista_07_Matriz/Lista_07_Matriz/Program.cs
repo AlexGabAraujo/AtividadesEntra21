@@ -14,7 +14,7 @@ namespace Lista_07_Matriz
             {
                 do
                 {
-                    Console.WriteLine("Escolha uma questão que deseja executar(entre 1 a 20) ou então digite 0 para sair: ");
+                    Console.WriteLine("Escolha uma questão que deseja executar(entre 1 a 10) ou então digite 0 para sair: ");
                     opcao = int.Parse(Console.ReadLine());
                     Console.WriteLine();
 
@@ -44,8 +44,10 @@ namespace Lista_07_Matriz
                             MediaMatrizEx08();
                             break;
                         case 9:
+                            MatrizNulaEx09();
                             break;
                         case 10:
+                            CriarMatriz();
                             break;
                         case 0:
                             Console.WriteLine("Finalizando...");
@@ -71,29 +73,47 @@ namespace Lista_07_Matriz
         //Declare e inicialize uma matriz 3x3 com valores inteiros e imprima seus elementos.
         static void MatrizDeclaradaEx01()
         {
-            int[,] matriz =
+            try
             {
+                int[,] matriz ={
                 {2, 3, 1},
                 {3, 5, 10},
                 {7, 6, 14}
             };
 
-            ImprimirMatriz(matriz);
+                ImprimirMatriz(matriz);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Um erro Foi Entrado: ");
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Tente Novamente.");
+            }
+
         }
 
         //2. Soma dos Elementos
         //Crie um programa que percorre uma matriz e calcula a soma de todos os seus elementos.
         static void SomaMatriz02()
         {
-            int[,] matriz =
+            try
+            {
+                int[,] matriz =
             {
                 {2, 3, 1},
                 {3, 5, 10},
                 {7, 6, 14}
             };
 
-            ImprimirMatriz(matriz);
-            Console.WriteLine($"A soma da matriz é igual a: {SomarMatriz(matriz)}");
+                ImprimirMatriz(matriz);
+                Console.WriteLine($"A soma da matriz é igual a: {SomarMatriz(matriz)}");
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("Um erro Foi Entrado: ");
+                Console.WriteLine(ex.Message);
+                Console.WriteLine("Tente Novamente.");
+            }
         }
 
         static int SomarMatriz(int[,] matriz)
@@ -288,10 +308,59 @@ namespace Lista_07_Matriz
 
         //9. Matriz Esparsa
         //Desenvolva um programa que verifica se uma matriz possui mais elementos nulos (0) do que não nulos.
+        static void MatrizNulaEx09()
+        {
+            int[,] matriz =
+            {
+                {9, 3, 1},
+                {0, 0, 0},
+                {6, 0, 7}
+            };
+
+            ImprimirMatriz(matriz);
+            Console.WriteLine($"\nA matriz possui mais elementos nulos do que não nulos: {MatrizNula(matriz)}");
+        }
+
+        static bool MatrizNula(int[,] matriz)
+        {
+            int nulo=0, naoNulo = 0;
+            bool MaisNulo;
+
+            for (int i = 0; i < matriz.GetLength(0); i++)
+                for (int j = 0; j < matriz.GetLength(1); j++)
+                {
+                    if (matriz[i, j] == 0)
+                        nulo++;
+                    else
+                        naoNulo++;
+                }
+            if (nulo > naoNulo)
+                return MaisNulo = true;
+            else
+                return MaisNulo = false;
+        }
 
         //10. Matriz Dinâmica
         //Crie uma matriz de tamanho variável, solicite ao usuário os valores e exiba a matriz na tela.
+        static void CriarMatriz()
+        {
+            Console.WriteLine("Digite o número de linhas da matriz: ");
+            int linhas = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o número de colunas da matriz: ");
+            int colunas = int.Parse(Console.ReadLine());
+            int[,] matriz = new int[linhas, colunas];
 
+            for (int i = 0; i < matriz.GetLength(0); i++)
+            {
+                for (int j = 0; j < matriz.GetLength(1); j++)
+                {
+                    Console.WriteLine($"Digite o valor da posição [{i},{j}]: ");
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+            Console.WriteLine("\n------------------Matriz Criada------------------\n");
+            ImprimirMatriz(matriz);
+        }
 
 
         static void ImprimirMatriz(int[,] matriz)
