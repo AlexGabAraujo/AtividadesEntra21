@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.AssemblyInfo.cs
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\bin\Debug\net7.0\Lista_05_Function_TryCatch.exe
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\bin\Debug\net7.0\Lista_05_Function_TryCatch.deps.json
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\bin\Debug\net7.0\Lista_05_Function_TryCatch.runtimeconfig.json
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\bin\Debug\net7.0\Lista_05_Function_TryCatch.dll
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\bin\Debug\net7.0\Lista_05_Function_TryCatch.pdb
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.dll
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\refint\Lista_05_Function_TryCatch.dll
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.pdb
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\Lista_05_Function_TryCatch.genruntimeconfig.cache
+C:\Users\alex.araujo\source\repos\Lista_05_Function_TryCatch\Lista_05_Function_TryCatch\obj\Debug\net7.0\ref\Lista_05_Function_TryCatch.dll
