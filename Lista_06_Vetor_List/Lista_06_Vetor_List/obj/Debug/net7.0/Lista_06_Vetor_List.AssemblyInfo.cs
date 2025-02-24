@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista_06_Vetor_List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71636fb43a5cdb057cbf98983b4591492809ba4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1c12a3473a1810ac2b80835ed96cac2cca5fb92")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista_06_Vetor_List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista_06_Vetor_List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
