@@ -1,0 +1,15 @@
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\bin\Debug\net8.0\Lista_01_Variáveis.exe
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\bin\Debug\net8.0\Lista_01_Variáveis.deps.json
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\bin\Debug\net8.0\Lista_01_Variáveis.runtimeconfig.json
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\bin\Debug\net8.0\Lista_01_Variáveis.dll
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\bin\Debug\net8.0\Lista_01_Variáveis.pdb
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.AssemblyInfoInputs.cache
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.AssemblyInfo.cs
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.csproj.CoreCompileInputs.cache
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.sourcelink.json
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.dll
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\refint\Lista_01_Variáveis.dll
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.pdb
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\Lista_01_Variáveis.genruntimeconfig.cache
+C:\Users\alexg\source\AtividadesEntra21\Lista_01_Variáveis\Lista_01_Variáveis\obj\Debug\net8.0\ref\Lista_01_Variáveis.dll

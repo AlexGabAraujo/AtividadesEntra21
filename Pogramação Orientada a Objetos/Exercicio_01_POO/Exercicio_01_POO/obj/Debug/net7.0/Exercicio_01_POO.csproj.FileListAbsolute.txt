@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\bin\Debug\net7.0\Exercicio_01_POO.exe
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\bin\Debug\net7.0\Exercicio_01_POO.deps.json
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\bin\Debug\net7.0\Exercicio_01_POO.runtimeconfig.json
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\bin\Debug\net7.0\Exercicio_01_POO.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\bin\Debug\net7.0\Exercicio_01_POO.pdb
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.AssemblyInfo.cs
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\refint\Exercicio_01_POO.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.pdb
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\Exercicio_01_POO.genruntimeconfig.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Exercicio_01_POO\Exercicio_01_POO\obj\Debug\net7.0\ref\Exercicio_01_POO.dll

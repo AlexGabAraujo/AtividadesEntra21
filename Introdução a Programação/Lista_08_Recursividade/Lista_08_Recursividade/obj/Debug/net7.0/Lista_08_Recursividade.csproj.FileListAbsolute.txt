@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\bin\Debug\net7.0\Lista_08_Recursividade.exe
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\bin\Debug\net7.0\Lista_08_Recursividade.deps.json
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\bin\Debug\net7.0\Lista_08_Recursividade.runtimeconfig.json
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\bin\Debug\net7.0\Lista_08_Recursividade.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\bin\Debug\net7.0\Lista_08_Recursividade.pdb
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.AssemblyInfo.cs
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\refint\Lista_08_Recursividade.dll
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.pdb
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\Lista_08_Recursividade.genruntimeconfig.cache
+C:\Users\alex.araujo\source\repos\AtividadesEntra21\Lista_08_Recursividade\Lista_08_Recursividade\obj\Debug\net7.0\ref\Lista_08_Recursividade.dll

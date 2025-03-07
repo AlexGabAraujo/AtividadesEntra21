@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\bin\Debug\net7.0\Lista_06_Vetor_List.exe
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\bin\Debug\net7.0\Lista_06_Vetor_List.deps.json
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\bin\Debug\net7.0\Lista_06_Vetor_List.runtimeconfig.json
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\bin\Debug\net7.0\Lista_06_Vetor_List.dll
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\bin\Debug\net7.0\Lista_06_Vetor_List.pdb
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.AssemblyInfo.cs
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.dll
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\refint\Lista_06_Vetor_List.dll
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.pdb
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\Lista_06_Vetor_List.genruntimeconfig.cache
+C:\Users\alex.araujo\Source\Repos\AtividadesEntra21\Lista_06_Vetor_List\Lista_06_Vetor_List\obj\Debug\net7.0\ref\Lista_06_Vetor_List.dll

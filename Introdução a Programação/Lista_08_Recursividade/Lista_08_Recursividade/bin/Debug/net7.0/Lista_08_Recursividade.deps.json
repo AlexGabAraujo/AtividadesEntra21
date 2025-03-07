@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lista_08_Recursividade/1.0.0": {
+        "runtime": {
+          "Lista_08_Recursividade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista_08_Recursividade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
