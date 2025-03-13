@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lista_05_Function_TryCatch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a0f503fb800f761a71da4120d7edcad4029a363")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lista_05_Function_TryCatch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lista_05_Function_TryCatch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
